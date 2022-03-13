@@ -62,7 +62,7 @@ a 05 03 2000 01 03 2022
 AGE: 21
 ```
 
-### Opção 'a'
+### Opção 'c'
 O programa deverá imprimir a categoria natural do atleta consoante a sua idade. Ou seja, é necessário determinar a idade do atleta ao dia 31/12 do ano actual e depois, com base nessa informação, é necessário determinar qual a categoria onde melhor se insere. Deverá depois imprimir a mensagem:
 
 ```CATEGORY <categoria>\n```
