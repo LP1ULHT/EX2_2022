@@ -67,7 +67,7 @@ O programa deverá imprimir a categoria natural do atleta consoante a sua idade.
 
 ```CATEGORY <categoria>\n```
 
-onde `<catetoria>` deverá ser a sigla que representa a categoria do atleta - U14, U18, O, O30 ou O40.
+onde `<categoria>` deverá ser a sigla que representa a categoria do atleta - U14, U18, O, O30 ou O40.
 
 Exemplo:
 ```bash
