@@ -124,6 +124,8 @@ Nota 1: Considera-se o dia inválido se for menor que 1 ou superior ao numero m�
 
 Nota 2: Anos bissextos são múltiplos de 4. Anos que também são múltiplos de 100 não são bissextos (1900 não é bissexto). Mas anos que são multiplos de 4, 100 e 400 são bissextos (2000 é bissexto).
 
+Nota 3: Considera-se um ano inválido se for inferior a 1899.
+
 ## Honestidade Académica
 
 Nesta disciplina, espera-se que cada aluno siga os mais altos padrões de honestidade académica. Trabalhos que sejam identificados como cópias serão anulados e os alunos envolvidos terão nota zero - quer tenham copiado, quer tenham deixado copiar.
